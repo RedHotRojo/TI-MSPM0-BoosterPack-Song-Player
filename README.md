@@ -1,2 +1,2 @@
-# TI MSPM0 + BoosterPack Song Player
+# TI MSPM0G3507 + BoosterPack Song Player
 ECE 3660: Intro to Embedded Computer Systems, Final Project by Kemal and Rohit
