@@ -25,4 +25,4 @@ The project tested our Embedded Computer Programming capabilities by playing a s
 ## Software Architecture Block Diagram
 <img width="1448" height="874" alt="Block Diagram" src="https://github.com/user-attachments/assets/605979cb-e71d-419a-bdac-1ebb3c4e2039" />
 
-[Full Presentation](https://drive.google.com/file/d/1MBlNggo2uPBZ0au3VSc-iq_8k6rNp2Mt/view?usp=sharing)
+## [Full Presentation](https://drive.google.com/file/d/1MBlNggo2uPBZ0au3VSc-iq_8k6rNp2Mt/view?usp=sharing)
